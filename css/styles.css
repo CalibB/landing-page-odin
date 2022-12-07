@@ -98,3 +98,40 @@ body {
     border-style: solid;
     border-radius: 5px;
 }
+
+.second_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #434242;
+    color: #F3EFE0;
+}
+
+.second__title {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    font-weight: 700;
+    padding-top: 1rem;
+}
+
+.experiences__container {
+    display: flex;
+    gap: 2rem;
+    padding: 4rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience__item {
+    flex-basis: 200px;
+}
+
+.experience__img {
+    height: 300px;
+    object-fit: contain;
+}
+
+.experience__text {
+    padding-top: 1rem;
+}
