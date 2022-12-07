@@ -84,6 +84,7 @@ body {
     font-size: 3rem;
     font-weight: 900;
     margin-bottom: 1.5rem;
+    color: #434242;
 }
 
 .inner__body {
@@ -189,4 +190,11 @@ body {
     background-color: #434242;
     color: #F3EFE0;
     border-style: none;
+}
+
+.footer {
+    text-align: center;
+    background-color: #F3EFE0;
+    color: #434242;
+    padding: 1rem 0;
 }
