@@ -160,3 +160,33 @@ body {
     font-size: 1.5rem;
     font-weight: 900;
 }
+
+.cta_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #434242;
+}
+
+.cta__container {
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+    margin: 0 4rem;
+    padding: 5rem;
+    background-color: #F3EFE0;
+    color: #434242;
+}
+
+.cta__body {
+    padding-right: 5rem;
+}
+
+.cta_btn {
+    align-self: center;
+    width: 130px;
+    padding: 1rem;
+    background-color: #434242;
+    color: #F3EFE0;
+    border-style: none;
+}
