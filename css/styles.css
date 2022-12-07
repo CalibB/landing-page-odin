@@ -135,3 +135,28 @@ body {
 .experience__text {
     padding-top: 1rem;
 }
+
+.testimonial_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote__container {
+    background-color: #434242;
+    color: #F3EFE0;
+    margin: 4rem;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote__text {
+    font-size: 2rem;
+}
+
+.quote__author {
+    margin-left: auto;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
